@@ -12,9 +12,7 @@ Author URI: http://www.gnvpartners.com/
 body {
 	background-color: #e55c46;/* rosso */ /* scegli il colore che preferisci per lo sfondo :) commentando o elimindando gli altri*/
 	background-color: #8d89a7;/* viola */
-	background-color: #da980b;/* giallo */
-	background-color: #928a74;/* grigio */
-	background-color: #7b99a4;/* azzurro ceruleo */
+	background-color: #407E31; /*verde */
 	font-family: helvetica, verdana, arial, helve, sans-serif; 	
 	font-size: 15px;
 	line-height: 23px;
@@ -349,7 +347,6 @@ em.plus{
 }
 .event_logo img{
 	width: 100%;
-	max-width: 220px;
 	height: auto;
 }
 
